@@ -1,9 +1,9 @@
-<scheme name="Main copy" version="142" parent_scheme="Darcula">
+<scheme name="Main" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-05-09T08:13:11</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2023-05-24T17:09:38</property>
+    <property name="created">2023-09-10T11:45:11</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2022.3.1.19</property>
+    <property name="modified">2023-09-10T11:45:15</property>
     <property name="originalScheme">Main copy</property>
   </metaInfo>
   <colors>
