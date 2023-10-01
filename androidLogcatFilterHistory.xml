@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="lift" />
+    <option name="mostRecentlyUsed" value="TAG" />
     <option name="nonFavorites">
       <list>
+        <option value="TAG" />
+        <option value="T" />
+        <option value="package:mine " />
         <option value="lift" />
         <option value="ftc" />
         <option value="ftc265" />
@@ -10,7 +13,6 @@
         <option value="265" />
         <option value="t265" />
         <option value="T265" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
