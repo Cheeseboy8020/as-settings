@@ -1,11 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="lift" />
     <option name="nonFavorites">
       <list>
-        <option value="opencvcamera" />
-        <option value="pointer must not be" />
-        <option value="nullpointer" />
         <option value="lift" />
         <option value="ftc" />
         <option value="ftc265" />
