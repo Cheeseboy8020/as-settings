@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ColorTest" />
+    <option name="mostRecentlyUsed" value="ColorMonkey" />
     <option name="nonFavorites">
       <list>
+        <option value="ColorMonkey" />
+        <option value="\" />
         <option value="ColorTest" />
         <option value="colortest.kt" />
         <option value="uvcstream" />
