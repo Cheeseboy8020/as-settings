@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="lift" />
+    <option name="mostRecentlyUsed" value="robolog" />
     <option name="nonFavorites">
       <list>
+        <option value="robolog" />
         <option value="lift" />
         <option value="ftc" />
         <option value="ftc265" />
