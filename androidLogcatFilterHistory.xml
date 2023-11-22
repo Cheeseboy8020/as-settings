@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="robolog" />
     <option name="nonFavorites">
       <list>
+        <option value="cvPose" />
         <option value="robolog" />
         <option value="lift" />
         <option value="ftc" />
