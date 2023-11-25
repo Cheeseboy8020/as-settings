@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="cvPose" />
+    <option name="mostRecentlyUsed" value="cvPose5" />
     <option name="nonFavorites">
       <list>
+        <option value="cvPose5" />
+        <option value="cvPose4" />
         <option value="cvPose" />
         <option value="robolog" />
         <option value="lift" />
