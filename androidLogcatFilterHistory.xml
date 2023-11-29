@@ -3,7 +3,12 @@
     <option name="mostRecentlyUsed" value="cvPose" />
     <option name="nonFavorites">
       <list>
+        <option value="cvPose10" />
         <option value="cvPose" />
+        <option value="cvPoseGlobal" />
+        <option value="cvPose9" />
+        <option value="package:mine " />
+        <option value="ServoArm" />
         <option value="cvPose5" />
         <option value="cvPose4" />
         <option value="robolog" />
@@ -14,7 +19,6 @@
         <option value="265" />
         <option value="t265" />
         <option value="T265" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
