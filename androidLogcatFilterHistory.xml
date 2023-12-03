@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="viewport" />
         <option value="package:mine " />
         <option value="package:mine Spike Detector" />
         <option value="SpikeDetector" />
@@ -22,7 +23,6 @@
         <option value="robolog" />
         <option value="lift" />
         <option value="ftc" />
-        <option value="ftc265" />
       </list>
     </option>
   </component>
