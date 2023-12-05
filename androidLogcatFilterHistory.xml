@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AutoStop" />
     <option name="nonFavorites">
       <list>
+        <option value="AutoStop" />
+        <option value=":135" />
         <option value="viewport" />
         <option value="package:mine " />
         <option value="package:mine Spike Detector" />
@@ -21,8 +23,6 @@
         <option value="cvPose5" />
         <option value="cvPose4" />
         <option value="robolog" />
-        <option value="lift" />
-        <option value="ftc" />
       </list>
     </option>
   </component>
