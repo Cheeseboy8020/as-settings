@@ -4,12 +4,13 @@
     <option name="nonFavorites">
       <list>
         <option value="cvPoseGlobal" />
+        <option value="TargetPos" />
         <option value="cvPose" />
+        <option value="package:mine " />
         <option value="Done" />
         <option value="AutoStop" />
         <option value=":135" />
         <option value="viewport" />
-        <option value="package:mine " />
         <option value="package:mine Spike Detector" />
         <option value="SpikeDetector" />
         <option value="CENTER" />
@@ -22,7 +23,6 @@
         <option value="cvPose9" />
         <option value="ServoArm" />
         <option value="cvPose5" />
-        <option value="cvPose4" />
       </list>
     </option>
   </component>
