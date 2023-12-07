@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="cvPoseGlobal" />
+    <option name="mostRecentlyUsed" value="cvPose" />
     <option name="nonFavorites">
       <list>
-        <option value="cvPoseGlobal" />
-        <option value="TargetPos" />
         <option value="cvPose" />
+        <option value="TargetPos" />
+        <option value="\" />
+        <option value="package:mine TrajLength" />
+        <option value="TrajL" />
+        <option value="cvPoseGlobal" />
         <option value="package:mine " />
         <option value="Done" />
         <option value="AutoStop" />
@@ -20,9 +23,6 @@
         <option value="OpenCv amera" />
         <option value="teamcode" />
         <option value="cvPose10" />
-        <option value="cvPose9" />
-        <option value="ServoArm" />
-        <option value="cvPose5" />
       </list>
     </option>
   </component>
