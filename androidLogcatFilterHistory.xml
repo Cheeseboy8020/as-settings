@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="st" />
         <option value="Log" />
         <option value="cvPose" />
         <option value="TargetPos" />
@@ -22,7 +23,6 @@
         <option value="LEFT" />
         <option value="RIGHT" />
         <option value="OpenCv amera" />
-        <option value="teamcode" />
       </list>
     </option>
   </component>
