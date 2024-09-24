@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="accentColor" value="84ffff" />
+    <option name="secondAccentColor" />
+    <option name="highlightColor" />
+    <option name="focusColor" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="6fae6e7a:18f6558ff8e:-8000" />
+    <option name="version" value="8.13.2" />
+  </component>
+</application>
