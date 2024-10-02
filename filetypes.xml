@@ -5,6 +5,7 @@
       <mapping ext="avi" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="m" approved="true" type="ObjectiveC" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="pdf" approved="true" type="Pdf file" />
