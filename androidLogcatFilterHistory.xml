@@ -1,28 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="stuck in stop" />
     <option name="nonFavorites">
       <list>
-        <option value="st" />
-        <option value="Log" />
-        <option value="cvPose" />
-        <option value="TargetPos" />
-        <option value="\" />
-        <option value="package:mine TrajLength" />
-        <option value="TrajL" />
-        <option value="cvPoseGlobal" />
-        <option value="package:mine " />
-        <option value="Done" />
-        <option value="AutoStop" />
-        <option value=":135" />
-        <option value="viewport" />
-        <option value="package:mine Spike Detector" />
-        <option value="SpikeDetector" />
-        <option value="CENTER" />
-        <option value="Spike" />
-        <option value="LEFT" />
-        <option value="RIGHT" />
-        <option value="OpenCv amera" />
+        <option value="stuck in stop" />
+        <option value="not found" />
+        <option value="expansion hub" />
+        <option value="expansionhub" />
       </list>
     </option>
   </component>
