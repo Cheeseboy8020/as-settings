@@ -1,6 +1,5 @@
 <application>
   <component name="LafManager">
-    <laf themeId="Material Deep Ocean Compact Contrast" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Arc Dark" scheme="_@user_Arc Dark (Material)" />
       <laf-to-scheme laf="Arc Dark Compact" scheme="_@user_Arc Dark (Material)" />
@@ -16,7 +15,6 @@
       <laf-to-scheme laf="Atom One Light Contrast" scheme="_@user_Atom One Light (Material)" />
       <laf-to-scheme laf="DEEPOCEAN" scheme="Main" />
       <laf-to-scheme laf="Darcula" scheme="Main" />
-      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="Dracula" scheme="_@user_Dracula (Material)" />
       <laf-to-scheme laf="Dracula Compact" scheme="_@user_Dracula (Material)" />
       <laf-to-scheme laf="Dracula Compact Contrast" scheme="_@user_Dracula (Material)" />
