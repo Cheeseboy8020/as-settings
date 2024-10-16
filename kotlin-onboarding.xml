@@ -1,7 +1,13 @@
 <application>
+  <component name="BuildProcessSatisfactionSurveyStore">
+    <option name="daysWithGradleBuilds" value="1" />
+    <option name="firstKotlinGradleBuildTime" value="1729051769" />
+    <option name="lastKotlinGradleBuildTime" value="1729051769" />
+    <option name="nextCountedGradleBuild" value="1729138169" />
+  </component>
   <component name="KotlinNewUserTracker">
-    <option name="firstKtFileOpened" value="1728802290" />
-    <option name="lastKtFileOpened" value="1728830704" />
-    <option name="newKtUserSince" value="1728802290" />
+    <option name="firstKtFileOpened" value="1729051732" />
+    <option name="lastKtFileOpened" value="1729051732" />
+    <option name="newKtUserSince" value="1729051732" />
   </component>
 </application>
