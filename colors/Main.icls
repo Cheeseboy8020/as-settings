@@ -1044,7 +1044,7 @@
         <option name="FOREGROUND" value="ef596f" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ef596f" />
@@ -1670,7 +1670,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="2bbac5" />
@@ -2287,7 +2287,7 @@
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ef596f" />
