@@ -1,4 +1,5 @@
 <scheme name="Main" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-05-20T11:24:56</property>
     <property name="ide">Python</property>
@@ -6,6 +7,9 @@
     <property name="modified">2024-05-12T17:30:44</property>
     <property name="originalScheme">Main copy</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Noto Sans Regular" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -1044,7 +1048,7 @@
         <option name="FOREGROUND" value="ef596f" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG" baseAttributes="" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ef596f" />
@@ -2287,7 +2291,7 @@
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ef596f" />
