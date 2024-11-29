@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Arm Power" />
     <option name="nonFavorites">
       <list>
+        <option value="Arm Power" />
         <option value="stuck in stop" />
         <option value="not found" />
         <option value="expansion hub" />
