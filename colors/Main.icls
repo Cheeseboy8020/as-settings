@@ -8,8 +8,8 @@
     <property name="originalScheme">Main copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
-  <option name="EDITOR_FONT_NAME" value="Noto Sans Regular" />
+  <option name="EDITOR_FONT_SIZE" value="21" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
