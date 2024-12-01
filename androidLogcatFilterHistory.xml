@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Default Arm" />
+    <option name="mostRecentlyUsed" value="default" />
     <option name="nonFavorites">
       <list>
+        <option value="default" />
         <option value="Default Arm" />
         <option value="Default Wrist" />
         <option value="Wrist Power" />
         <option value="Power" />
         <option value="Default" />
         <option value="Arm Power" />
-        <option value="default" />
         <option value="null" />
         <option value="PID" />
         <option value="Wrist Deg" />
