@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Arm Vel" />
+    <option name="mostRecentlyUsed" value="Wrist Deg" />
     <option name="nonFavorites">
       <list>
-        <option value="Arm Vel" />
-        <option value="Arm Deg" />
         <option value="Wrist Deg" />
+        <option value="Wrist Pos" />
+        <option value="Wrist Limit" />
+        <option value="Arm Deg" />
+        <option value="Arm Vel" />
         <option value="Arm Target" />
         <option value="Arm State" />
         <option value="Arm Profile Target" />
@@ -21,8 +23,6 @@
         <option value="Arm Swi" />
         <option value="Target" />
         <option value="Joint" />
-        <option value="Wrist Target" />
-        <option value="Arm TArget" />
       </list>
     </option>
   </component>
