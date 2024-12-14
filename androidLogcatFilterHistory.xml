@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Lift Power" />
     <option name="nonFavorites">
       <list>
-        <option value="Lift Limit" />
         <option value="Lift Power" />
+        <option value="Lift Hang D" />
+        <option value="Lift Hang Done" />
+        <option value="hang lo" />
+        <option value="Loop Time" />
+        <option value="Te" />
+        <option value="Lift Limit" />
         <option value="TeleOp" />
         <option value="Lift Target" />
         <option value="Tele Pos" />
@@ -18,11 +23,6 @@
         <option value="Wrist target" />
         <option value="Wrist Power" />
         <option value="Arm Power" />
-        <option value="Wrist Pos" />
-        <option value="Wrist Limit" />
-        <option value="Arm Deg" />
-        <option value="Arm Vel" />
-        <option value="Arm Target" />
       </list>
     </option>
   </component>
