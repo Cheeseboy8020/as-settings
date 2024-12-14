@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="Lift Power" />
+        <option value="Lift Lock Pos" />
+        <option value="Hang Lock" />
         <option value="Lift Lock" />
         <option value="Lift P" />
         <option value="Lift Hang D" />
@@ -21,8 +23,6 @@
         <option value="Dist" />
         <option value="Lift " />
         <option value="Wrist Deg" />
-        <option value="Wrist pos" />
-        <option value="Wrist target" />
       </list>
     </option>
   </component>
