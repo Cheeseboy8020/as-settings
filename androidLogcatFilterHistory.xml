@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Lift Power" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tuning" />
         <option value="Lift Power" />
         <option value="Lift Lock Pos" />
         <option value="Hang Lock" />
@@ -22,7 +23,6 @@
         <option value="Limit" />
         <option value="Dist" />
         <option value="Lift " />
-        <option value="Wrist Deg" />
       </list>
     </option>
   </component>
