@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="dashboard" />
         <option value="drive" />
         <option value="Lift" />
         <option value="tuning" />
@@ -22,7 +23,6 @@
         <option value="Tele Pos" />
         <option value="Tele Po" />
         <option value="Lift Pos" />
-        <option value="Limit" />
       </list>
     </option>
   </component>
