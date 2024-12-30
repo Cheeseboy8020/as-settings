@@ -8,8 +8,8 @@
     <property name="originalScheme">Main copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Noto Sans Regular" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -1048,7 +1048,7 @@
         <option name="FOREGROUND" value="ef596f" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ef596f" />
@@ -1674,7 +1674,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="2bbac5" />
@@ -2291,7 +2291,7 @@
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ef596f" />

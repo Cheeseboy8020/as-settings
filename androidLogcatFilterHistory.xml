@@ -1,12 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Intake" />
     <option name="nonFavorites">
       <list>
-        <option value="stuck in stop" />
-        <option value="not found" />
-        <option value="expansion hub" />
-        <option value="expansionhub" />
+        <option value="Intake" />
+        <option value="default" />
+        <option value="Default Arm" />
+        <option value="Default Wrist" />
+        <option value="Wrist Power" />
+        <option value="Power" />
+        <option value="Default" />
+        <option value="Arm Power" />
+        <option value="null" />
+        <option value="PID" />
+        <option value="Wrist Deg" />
+        <option value="Arm Deg" />
+        <option value="Wrist Global" />
+        <option value="Wrist Glo" />
+        <option value="Wrist End" />
+        <option value="Wrist global" />
+        <option value="wrist power" />
+        <option value="wrist pos" />
+        <option value="wr" />
+        <option value="wrist global" />
       </list>
     </option>
   </component>
