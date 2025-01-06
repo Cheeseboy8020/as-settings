@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="589df6" />
+        <option name="accentColorHex" value="84ffff" />
       </MTAccentConfigState>
     </option>
     <option name="metadata">
@@ -13,7 +13,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="DEEPOCEAN" />
       </MTThemeConfigState>
     </option>
   </component>
