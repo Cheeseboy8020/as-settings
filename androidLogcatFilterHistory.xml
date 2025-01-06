@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Intake" />
+    <option name="mostRecentlyUsed" value="Detections" />
     <option name="nonFavorites">
       <list>
-        <option value="Intake" />
-        <option value="default" />
-        <option value="Default Arm" />
-        <option value="Default Wrist" />
-        <option value="Wrist Power" />
-        <option value="Power" />
-        <option value="Default" />
-        <option value="Arm Power" />
-        <option value="null" />
-        <option value="PID" />
-        <option value="Wrist Deg" />
-        <option value="Arm Deg" />
-        <option value="Wrist Global" />
-        <option value="Wrist Glo" />
-        <option value="Wrist End" />
-        <option value="Wrist global" />
-        <option value="wrist power" />
-        <option value="wrist pos" />
-        <option value="wr" />
-        <option value="wrist global" />
+        <option value="Detections" />
+        <option value="dashboard" />
+        <option value="drive" />
+        <option value="Lift" />
+        <option value="tuning" />
+        <option value="Lift Power" />
+        <option value="Lift Lock Pos" />
+        <option value="Hang Lock" />
+        <option value="Lift Lock" />
+        <option value="Lift P" />
+        <option value="Lift Hang D" />
+        <option value="Lift Hang Done" />
+        <option value="hang lo" />
+        <option value="Loop Time" />
+        <option value="Te" />
+        <option value="Lift Limit" />
+        <option value="TeleOp" />
+        <option value="Lift Target" />
+        <option value="Tele Pos" />
+        <option value="Tele Po" />
       </list>
     </option>
   </component>
