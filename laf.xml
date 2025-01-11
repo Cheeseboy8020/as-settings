@@ -1,8 +1,9 @@
 <application>
   <component name="LafManager">
-    <laf themeId="Material Deep Ocean Compact" />
+    <laf themeId="Material Deep Ocean Contrast" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="Main" />
+      <laf-to-scheme laf="Material Deep Ocean Compact" scheme="Main" />
     </lafs-to-previous-schemes>
   </component>
 </application>
