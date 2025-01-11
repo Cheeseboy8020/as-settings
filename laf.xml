@@ -4,6 +4,7 @@
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="Main" />
       <laf-to-scheme laf="Material Deep Ocean Compact" scheme="Main" />
+      <laf-to-scheme laf="Material Deep Ocean Contrast" scheme="Main" />
     </lafs-to-previous-schemes>
   </component>
 </application>
