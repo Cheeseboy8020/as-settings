@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Detections" />
+    <option name="mostRecentlyUsed" value="armRight" />
     <option name="nonFavorites">
       <list>
+        <option value="armRight" />
         <option value="Detections" />
         <option value="dashboard" />
         <option value="drive" />
@@ -22,7 +23,6 @@
         <option value="TeleOp" />
         <option value="Lift Target" />
         <option value="Tele Pos" />
-        <option value="Tele Po" />
       </list>
     </option>
   </component>
