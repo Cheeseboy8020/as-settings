@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Lift Power" />
+    <option name="mostRecentlyUsed" value="Arm Pos" />
     <option name="nonFavorites">
       <list>
+        <option value="Arm Pos" />
         <option value="Lift Power" />
         <option value="Arm" />
         <option value="armRight" />
@@ -22,7 +23,6 @@
         <option value="Te" />
         <option value="Lift Limit" />
         <option value="TeleOp" />
-        <option value="Lift Target" />
       </list>
     </option>
   </component>
