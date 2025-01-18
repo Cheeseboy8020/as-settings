@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Arm" />
+    <option name="mostRecentlyUsed" value="Lift Power" />
     <option name="nonFavorites">
       <list>
-        <option value="Arm" />
         <option value="Lift Power" />
+        <option value="Arm" />
         <option value="armRight" />
         <option value="Detections" />
         <option value="dashboard" />
