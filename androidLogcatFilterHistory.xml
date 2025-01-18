@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="Lift Power" />
+        <option value="Lift Pos: " />
+        <option value="Lift Pos" />
         <option value="Arm Pos" />
         <option value="Arm" />
         <option value="armRight" />
@@ -21,8 +23,6 @@
         <option value="hang lo" />
         <option value="Loop Time" />
         <option value="Te" />
-        <option value="Lift Limit" />
-        <option value="TeleOp" />
       </list>
     </option>
   </component>
