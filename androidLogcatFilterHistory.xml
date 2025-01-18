@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="armRight" />
+    <option name="mostRecentlyUsed" value="Lift Power" />
     <option name="nonFavorites">
       <list>
+        <option value="Lift Power" />
         <option value="armRight" />
         <option value="Detections" />
         <option value="dashboard" />
         <option value="drive" />
         <option value="Lift" />
         <option value="tuning" />
-        <option value="Lift Power" />
         <option value="Lift Lock Pos" />
         <option value="Hang Lock" />
         <option value="Lift Lock" />
