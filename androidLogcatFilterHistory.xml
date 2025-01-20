@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Intake Dif" />
+    <option name="mostRecentlyUsed" value="Intake Dist" />
     <option name="nonFavorites">
       <list>
-        <option value="Intake Dif" />
         <option value="Intake Dist" />
+        <option value="Intake Dif" />
         <option value="Intake Finish" />
         <option value="Lift Power" />
         <option value="Lift Pos: " />
