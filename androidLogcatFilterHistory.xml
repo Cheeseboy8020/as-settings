@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Tel" />
+    <option name="mostRecentlyUsed" value="Deposit" />
     <option name="nonFavorites">
       <list>
+        <option value="Deposit" />
         <option value="Tel" />
         <option value="Intake Dist" />
         <option value="Intake Dif" />
@@ -22,7 +23,6 @@
         <option value="Hang Lock" />
         <option value="Lift Lock" />
         <option value="Lift P" />
-        <option value="Lift Hang D" />
       </list>
     </option>
   </component>
