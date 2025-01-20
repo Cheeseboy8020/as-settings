@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Deposit" />
+    <option name="mostRecentlyUsed" value="Lift Pos: " />
     <option name="nonFavorites">
       <list>
+        <option value="Lift Pos: " />
+        <option value="Intake Dif" />
+        <option value="obtained" />
+        <option value="pose" />
+        <option value="Obtained" />
+        <option value="Fresh  Dete" />
+        <option value="Pose" />
+        <option value="Fresh Dete" />
+        <option value="Predicted" />
+        <option value="Det" />
+        <option value="Fresh Detections" />
         <option value="Deposit" />
         <option value="Tel" />
         <option value="Intake Dist" />
-        <option value="Intake Dif" />
         <option value="Intake Finish" />
         <option value="Lift Power" />
-        <option value="Lift Pos: " />
         <option value="Lift Pos" />
         <option value="Arm Pos" />
         <option value="Arm" />
         <option value="armRight" />
-        <option value="Detections" />
-        <option value="dashboard" />
-        <option value="drive" />
-        <option value="Lift" />
-        <option value="tuning" />
-        <option value="Lift Lock Pos" />
-        <option value="Hang Lock" />
-        <option value="Lift Lock" />
-        <option value="Lift P" />
       </list>
     </option>
   </component>
