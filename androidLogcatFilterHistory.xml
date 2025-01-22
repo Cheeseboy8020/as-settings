@@ -1,9 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Lift Pos: " />
+    <option name="mostRecentlyUsed" value="Called" />
     <option name="nonFavorites">
       <list>
+        <option value="Called" />
+        <option value="Auto" />
+        <option value="Call" />
+        <option value="Lift Target" />
+        <option value="Switched" />
         <option value="Lift Pos: " />
+        <option value="Lift Power" />
+        <option value="Arm Pos" />
         <option value="Intake Dif" />
         <option value="obtained" />
         <option value="pose" />
@@ -16,13 +23,6 @@
         <option value="Fresh Detections" />
         <option value="Deposit" />
         <option value="Tel" />
-        <option value="Intake Dist" />
-        <option value="Intake Finish" />
-        <option value="Lift Power" />
-        <option value="Lift Pos" />
-        <option value="Arm Pos" />
-        <option value="Arm" />
-        <option value="armRight" />
       </list>
     </option>
   </component>
