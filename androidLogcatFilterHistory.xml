@@ -4,9 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="Called" />
+        <option value="Hi" />
+        <option value="Lift Target" />
         <option value="Auto" />
         <option value="Call" />
-        <option value="Lift Target" />
         <option value="Switched" />
         <option value="Lift Pos: " />
         <option value="Lift Power" />
@@ -22,7 +23,6 @@
         <option value="Det" />
         <option value="Fresh Detections" />
         <option value="Deposit" />
-        <option value="Tel" />
       </list>
     </option>
   </component>
