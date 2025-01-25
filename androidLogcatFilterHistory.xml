@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Right Dif" />
+    <option name="mostRecentlyUsed" value="Left" />
     <option name="nonFavorites">
       <list>
+        <option value="Left" />
+        <option value="Left Dif" />
         <option value="Right Dif" />
         <option value="Right dif" />
-        <option value="Left Dif" />
         <option value="intake" />
         <option value="Extend" />
         <option value="E" />
@@ -22,7 +23,6 @@
         <option value="Call" />
         <option value="Switched" />
         <option value="Lift Pos: " />
-        <option value="Lift Power" />
       </list>
     </option>
   </component>
