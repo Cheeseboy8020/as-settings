@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="Right Dif" />
+        <option value="Gamepad" />
         <option value="Left Dif" />
         <option value="Lift Pos" />
         <option value="Left" />
@@ -22,7 +23,6 @@
         <option value="Lift Target" />
         <option value="Auto" />
         <option value="Call" />
-        <option value="Switched" />
       </list>
     </option>
   </component>
