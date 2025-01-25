@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Right Dif" />
+    <option name="mostRecentlyUsed" value="Left Dif" />
     <option name="nonFavorites">
       <list>
+        <option value="Left Dif" />
         <option value="Right Dif" />
         <option value="Gamepad" />
-        <option value="Left Dif" />
         <option value="Lift Pos" />
         <option value="Left" />
         <option value="Right dif" />
