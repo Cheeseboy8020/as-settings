@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Right dif" />
+    <option name="mostRecentlyUsed" value="Right Dif" />
     <option name="nonFavorites">
       <list>
+        <option value="Right Dif" />
         <option value="Right dif" />
         <option value="Left Dif" />
         <option value="intake" />
@@ -11,7 +12,6 @@
         <option value="Tele Pos" />
         <option value="TargetExt" />
         <option value="CalledExtend" />
-        <option value="Right Dif" />
         <option value="Intake Dif" />
         <option value="Arm called" />
         <option value="Arm" />
