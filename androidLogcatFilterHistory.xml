@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Left Dif" />
+    <option name="mostRecentlyUsed" value="Loop Time" />
     <option name="nonFavorites">
       <list>
+        <option value="Loop Time" />
         <option value="Left Dif" />
         <option value="Right Dif" />
         <option value="Gamepad" />
@@ -22,7 +23,6 @@
         <option value="Hi" />
         <option value="Lift Target" />
         <option value="Auto" />
-        <option value="Call" />
       </list>
     </option>
   </component>
