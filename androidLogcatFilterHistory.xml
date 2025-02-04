@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Result LL:" />
+    <option name="mostRecentlyUsed" value="Arm Pos" />
     <option name="nonFavorites">
       <list>
+        <option value="Arm Pos" />
         <option value="Result LL:" />
         <option value="Dist" />
         <option value="Dst" />
         <option value="LL" />
         <option value="Lift Switched" />
-        <option value="Arm Pos" />
         <option value="Lift Else" />
         <option value="pos" />
         <option value="Setting target " />
