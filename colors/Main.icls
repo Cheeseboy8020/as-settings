@@ -504,7 +504,7 @@
         <option name="FOREGROUND" value="2bbac5" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="d55fde" />
@@ -2151,7 +2151,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
