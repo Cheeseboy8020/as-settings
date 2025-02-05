@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Num Corners" />
+    <option name="mostRecentlyUsed" value="Num Corner" />
     <option name="nonFavorites">
       <list>
+        <option value="Num Corner" />
+        <option value="rect: " />
         <option value="Num Corners" />
         <option value="Arm Pos" />
         <option value="Result LL:" />
@@ -21,8 +23,6 @@
         <option value="Left" />
         <option value="Right dif" />
         <option value="intake" />
-        <option value="Extend" />
-        <option value="E" />
       </list>
     </option>
   </component>
