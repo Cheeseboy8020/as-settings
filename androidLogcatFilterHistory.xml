@@ -1,13 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Angle" />
+    <option name="mostRecentlyUsed" value="package:mine Target Pos" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Target Pos" />
+        <option value="Target Pos" />
+        <option value="Angle" />
+        <option value="package:min " />
+        <option value="package:mine Target " />
         <option value="package:mine Angle" />
         <option value="package:mine WH" />
         <option value="package:mine ANGLE" />
         <option value="package:mine " />
-        <option value="Angle" />
         <option value="WH" />
         <option value="Width" />
         <option value="Points" />
@@ -19,10 +23,6 @@
         <option value="Num Corner" />
         <option value="rect: " />
         <option value="Num Corners" />
-        <option value="Arm Pos" />
-        <option value="Result LL:" />
-        <option value="Dist" />
-        <option value="Dst" />
       </list>
     </option>
   </component>
