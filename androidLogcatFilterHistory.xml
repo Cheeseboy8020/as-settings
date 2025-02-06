@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="WH" />
+    <option name="mostRecentlyUsed" value="Angle" />
     <option name="nonFavorites">
       <list>
+        <option value="Angle" />
         <option value="WH" />
         <option value="Width" />
         <option value="Points" />
         <option value="Height" />
-        <option value="Angle" />
         <option value="Result LL" />
         <option value="Angle " />
         <option value="Num Cor" />
