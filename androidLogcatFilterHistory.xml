@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Angle" />
+    <option name="mostRecentlyUsed" value="Width" />
     <option name="nonFavorites">
       <list>
+        <option value="Width" />
+        <option value="Points" />
+        <option value="Height" />
+        <option value="WH" />
         <option value="Angle" />
         <option value="Result LL" />
         <option value="Angle " />
@@ -19,10 +23,6 @@
         <option value="Lift Switched" />
         <option value="Lift Else" />
         <option value="pos" />
-        <option value="Setting target " />
-        <option value="Loop Time" />
-        <option value="Left Dif" />
-        <option value="Right Dif" />
       </list>
     </option>
   </component>
