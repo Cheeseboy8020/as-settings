@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Drive Pos" />
+    <option name="mostRecentlyUsed" value="package:mine enabled" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine enabled" />
+        <option value="package:mine LL" />
+        <option value="package:mine Enabled" />
+        <option value="package:mine Status" />
+        <option value="package:mine Width" />
+        <option value="package:mine " />
         <option value="package:mine Drive Pos" />
         <option value="package:mine limelight o" />
         <option value="package:mine ll o" />
@@ -16,13 +22,7 @@
         <option value="package:mine Angle" />
         <option value="package:mine WH" />
         <option value="package:mine ANGLE" />
-        <option value="package:mine " />
         <option value="WH" />
-        <option value="Width" />
-        <option value="Points" />
-        <option value="Height" />
-        <option value="Result LL" />
-        <option value="Angle " />
       </list>
     </option>
   </component>
