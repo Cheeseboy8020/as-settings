@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Arm Prog" />
+    <option name="mostRecentlyUsed" value="Arm Analo" />
     <option name="nonFavorites">
       <list>
+        <option value="Arm Analo" />
         <option value="Arm Prog" />
         <option value="Arm Progar" />
         <option value="Arm Analog" />
@@ -22,7 +23,6 @@
         <option value="package:mine limelight o" />
         <option value="package:mine ll o" />
         <option value="package:mine TAngle" />
-        <option value="package:mine Twist" />
       </list>
     </option>
   </component>
