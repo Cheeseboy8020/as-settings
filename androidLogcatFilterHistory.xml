@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Arm Analo" />
+    <option name="mostRecentlyUsed" value="Arm Analog" />
     <option name="nonFavorites">
       <list>
+        <option value="Arm Analog" />
         <option value="Arm Analo" />
         <option value="Arm Prog" />
         <option value="Arm Progar" />
-        <option value="Arm Analog" />
         <option value="Arm analog" />
         <option value="Arm Program" />
         <option value="Arm" />
