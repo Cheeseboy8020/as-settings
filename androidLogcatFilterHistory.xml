@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Arm" />
     <option name="nonFavorites">
       <list>
+        <option value="Arm" />
         <option value="Dist" />
         <option value="Pos" />
         <option value="package:mine Intake Dif" />
@@ -22,7 +23,6 @@
         <option value="Angle" />
         <option value="package:min " />
         <option value="package:mine Target " />
-        <option value="package:mine Angle" />
       </list>
     </option>
   </component>
