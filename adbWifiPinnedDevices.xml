@@ -1,5 +1,5 @@
 <application>
   <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.43.1:5555&quot;,&quot;serialNumber&quot;:&quot;a3428e2c1c45bf95&quot;,&quot;name&quot;:&quot;REV Robotics Control Hub v1.0&quot;,&quot;address&quot;:&quot;192.168.43.1&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;7.1.2&quot;,&quot;apiLevel&quot;:&quot;25&quot;},{&quot;id&quot;:&quot;192.168.43.1:5555&quot;,&quot;serialNumber&quot;:&quot;&quot;,&quot;name&quot;:&quot;REV Robotics Control Hub v1.0&quot;,&quot;address&quot;:&quot;192.168.43.1&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;&quot;,&quot;apiLevel&quot;:&quot;&quot;}]" />
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.43.1:5555&quot;,&quot;serialNumber&quot;:&quot;a3428e2c1c45bf95&quot;,&quot;name&quot;:&quot;REV Robotics Control Hub v1.0&quot;,&quot;address&quot;:&quot;192.168.43.1&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;7.1.2&quot;,&quot;apiLevel&quot;:&quot;25&quot;}]" />
   </component>
 </application>
