@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="LL" />
+    <option name="mostRecentlyUsed" value="WH" />
     <option name="nonFavorites">
       <list>
+        <option value="WH" />
+        <option value="Height" />
         <option value="LL" />
         <option value="limit" />
         <option value="lm" />
@@ -21,8 +23,6 @@
         <option value="package:mine Enabled" />
         <option value="package:mine Status" />
         <option value="package:mine Width" />
-        <option value="package:mine " />
-        <option value="package:mine Drive Pos" />
       </list>
     </option>
   </component>
