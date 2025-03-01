@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="nx" />
+    <option name="mostRecentlyUsed" value="package:mine LL Angle" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LL Angle" />
+        <option value="LL Angle" />
+        <option value="height" />
         <option value="nx" />
         <option value="vpw" />
         <option value="x" />
         <option value="px" />
-        <option value="height" />
         <option value="Dist" />
         <option value="WH" />
         <option value="Height" />
@@ -21,8 +23,6 @@
         <option value="Arm analog" />
         <option value="Arm Program" />
         <option value="Arm" />
-        <option value="Pos" />
-        <option value="package:mine Intake Dif" />
       </list>
     </option>
   </component>
