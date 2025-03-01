@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="WH" />
+    <option name="mostRecentlyUsed" value="nx" />
     <option name="nonFavorites">
       <list>
+        <option value="nx" />
+        <option value="vpw" />
+        <option value="x" />
+        <option value="px" />
+        <option value="height" />
+        <option value="Dist" />
         <option value="WH" />
         <option value="Height" />
         <option value="LL" />
@@ -15,14 +21,8 @@
         <option value="Arm analog" />
         <option value="Arm Program" />
         <option value="Arm" />
-        <option value="Dist" />
         <option value="Pos" />
         <option value="package:mine Intake Dif" />
-        <option value="package:mine enabled" />
-        <option value="package:mine LL" />
-        <option value="package:mine Enabled" />
-        <option value="package:mine Status" />
-        <option value="package:mine Width" />
       </list>
     </option>
   </component>
